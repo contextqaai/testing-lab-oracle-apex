@@ -1,3 +1,13 @@
+<a href="https://contextqaai.github.io/testing-lab/"><img src="lab/assets/contextqa-logo.svg" alt="ContextQA" width="200"></a>
+
+# ContextQA Oracle APEX learning lab
+
+[Start the Customers exercises](lab/README.md) · [Enterprise access paths](https://contextqaai.github.io/testing-lab/enterprise.html)
+
+Educational fork of Oracle's official APEX samples. The default source branch is `26.2`; match the sample version to your actual APEX workspace. The Customers starter is installable source, not a running Oracle ERP system. No app import, hosted URL, crawler run or ContextQA execution is verified yet. Original UPL license and third-party notices remain intact; no Oracle endorsement implied.
+
+## Upstream project documentation
+
 # [Oracle APEX on GitHub](https://oracle.github.io/apex/)
 
 Oracle APEX is a low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.  

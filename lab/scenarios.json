@@ -1,0 +1,41 @@
+{
+  "title": "Oracle APEX Customers",
+  "upstream": "https://github.com/oracle/apex",
+  "upstream_branch": "26.2",
+  "upstream_commit": "244dd3691fa5c2897a069fc912b149b9c2853679",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "import_verified": false,
+  "scenarios": [
+    {
+      "id": "oracle-apex-01",
+      "title": "Create customer",
+      "assertion": "A synthetic customer is saved and can be found after navigating away and back.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "oracle-apex-02",
+      "title": "Search and filter",
+      "assertion": "The chosen fixture appears under its matching customer report filter.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "oracle-apex-03",
+      "title": "Contact association",
+      "assertion": "A synthetic contact is associated with the intended customer.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "oracle-apex-04",
+      "title": "Activity history",
+      "assertion": "The selected synthetic activity is visible under that customer.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "oracle-apex-05",
+      "title": "Required-field validation",
+      "assertion": "The chosen required field is enforced without saving an incomplete record; verify the configured rule before running.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
